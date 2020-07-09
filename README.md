@@ -1,16 +1,17 @@
-### Hi there 👋
+### Patcharapat Chaijaroen 👋
+- **Informatics**, *International School of Engineering*, Chulalongkorn University
 
-<!--
-**fivechjr/fivechjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills
+- Swift - **Proficient**
+- TypeScript - **Proficient**
+- JavaScript - **Proficient**
+- Go - *Intermediate*
+- Docker - *Intermediate*
+- Java - *Intermediate*
+- Python - *Intermediate*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Web Frameworks
+- Vue - **Proficient**
+- NestJS - *Intermediate*
+- React - *Intermediate*
+- Angular - *Intermediate*
