@@ -18,5 +18,5 @@
 - React - *Intermediate*
 - Angular - *Intermediate*
 
-# Profile Image
+#### Profile Image
 - Generated with [WAIFU LABS](https://waifulabs.com/)
