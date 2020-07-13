@@ -18,8 +18,10 @@
 
 #### Web Frameworks
 - Vue - **Proficient**
+- Tailwind CSS - **Proficient**
 - NestJS - *Intermediate*
 - React - *Intermediate*
+- Gatsby (React) - *Intermediate*
 - Angular - *Intermediate*
 - Express - **Proficient**
 - Flask - *Intermediate*
