@@ -14,6 +14,7 @@
 - Docker - *Intermediate*
 - Java - *Intermediate*
 - Python - *Intermediate*
+- Solidity (Ethereum) - *Beginner*
 
 #### Web Frameworks
 - Vue - **Proficient**
