@@ -3,8 +3,11 @@
 ### Patcharapat Chaijaroen 👋
 - **Informatics**, *International School of Engineering*, Chulalongkorn University
 
-#### Skills
+#### Programming Skills
 - Swift - **Proficient**
+- Combine Framework (Swift) - **Proficient**
+- Grand Central Dispatch - GCD (iOS Development) - **Proficient**
+- Memory Maangement (iOS Development) - *Intermediate*
 - TypeScript - **Proficient**
 - JavaScript - **Proficient**
 - Go - *Intermediate*
@@ -17,6 +20,9 @@
 - NestJS - *Intermediate*
 - React - *Intermediate*
 - Angular - *Intermediate*
+- Express - **Proficient**
+- Flask - *Intermediate*
+- Traefik - *Intermediate*
 
 #### Profile Image
 - Generated with [WAIFU LABS](https://waifulabs.com/)
