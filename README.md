@@ -7,7 +7,7 @@
 - Swift - **Proficient**
 - Combine Framework (Swift) - **Proficient**
 - Grand Central Dispatch - GCD (iOS Development) - **Proficient**
-- Memory Maangement (iOS Development) - *Intermediate*
+- Memory Management (iOS Development) - *Intermediate*
 - TypeScript - **Proficient**
 - JavaScript - **Proficient**
 - Go - *Intermediate*
