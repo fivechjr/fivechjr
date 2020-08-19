@@ -12,6 +12,7 @@
 - Docker - *Intermediate*
 - Java - *Intermediate*
 - Python - *Intermediate*
+- PHP - *Intermediate*
 - Solidity (Ethereum) - *Beginner*
 
 #### Web Frameworks & Additional Skills
@@ -28,8 +29,9 @@
 - Echo (Go) - *Beginner*
 - RxJS - *Intermediate*
 - Redux - *Intermediate*
+- Laravel - *Intermediate*
 
 #### Interests
-- Learning Vue 3
+- Vue 3
 - MVVM Architecture
 - Clean Architecture
