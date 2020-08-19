@@ -24,6 +24,5 @@
 - Express - **Proficient**
 - Flask - *Intermediate*
 - Traefik - *Intermediate*
-
-#### Profile Image
-- Generated with [WAIFU LABS](https://waifulabs.com/)
+- Gin (Go) - *Beginner*
+- Echo (Go) - *Beginner*
