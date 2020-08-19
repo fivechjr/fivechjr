@@ -35,3 +35,4 @@
 - Vue 3
 - MVVM Architecture
 - Clean Architecture
+- Server-Side Swift + Serverless
