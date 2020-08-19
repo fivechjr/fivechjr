@@ -14,7 +14,7 @@
 - Python - *Intermediate*
 - Solidity (Ethereum) - *Beginner*
 
-#### Web Frameworks
+#### Web Frameworks & Additional Skills
 - Vue - **Proficient**
 - Tailwind CSS - **Proficient**
 - NestJS - *Intermediate*
@@ -26,3 +26,10 @@
 - Traefik - *Intermediate*
 - Gin (Go) - *Beginner*
 - Echo (Go) - *Beginner*
+- RxJS - *Intermediate*
+- Redux - *Intermediate*
+
+#### Interests
+- Learning Vue 3
+- MVVM Architecture
+- Clean Architecture
